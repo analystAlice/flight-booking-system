@@ -1,4 +1,4 @@
-# AI powered expert system demo
+# Flight Booking System
 
 Spring AI re-implementation of https://github.com/marcushellberg/java-ai-playground
 
